@@ -1,0 +1,2 @@
+mvn -DSkipTets -Pnative clean package -Dspring.native.verify=false
+
